@@ -26,7 +26,6 @@ function createSlider({
 
 createSlider();
 
-// Все поля обязательны для заполнения
 const customSliderOptions: ICustomSlider = {
 	container: "id",
 	numberOfSlides: 4,
